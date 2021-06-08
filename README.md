@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shalu Rajput</h1>
 <h3 align="center">A passionate Frontend developer and Programmer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 
 <p align="left"> <a href="https://twitter.com/shalurajput9951" target="blank"><img src="https://img.shields.io/twitter/follow/shalurajput9951?logo=twitter&style=for-the-badge" alt="shalurajput9951" /></a> </p>
 
