@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shalu Rajput</h1>
-<h3 align="center">A passionate Frontend developer and Programmer</h3>
+<h1 align="center">Hi Techies 👋, I'm Shalu Rajput</h1>
+<h3 align="center">A CSE Student who loves Exploring Tech fields and Empowering others.  I am a Frontend Developer, a Competitive Programmer and a Data Science Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShaluRajput9951](https://github.com/ShaluRajput9951)
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Shalu-Rajput-23](https://www.quora.com/profile/Shalu-Rajput-23)
+- 📝 I write articles on [https://www.quora.com/profile/Shalu-Rajput-23](https://www.quora.com/profile/Shalu-Rajput-23)
 
 - 📫 How to reach me **shalurajput9951@gmail.com**
 
