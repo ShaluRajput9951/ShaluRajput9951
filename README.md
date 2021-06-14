@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shalurajput9951" target="blank"><img src="https://img.shields.io/twitter/follow/shalurajput9951?logo=twitter&style=for-the-badge" alt="shalurajput9951" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web development**
+- 🌱 I’m currently learning **Full Stack development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShaluRajput9951](https://github.com/ShaluRajput9951)
 
